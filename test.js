@@ -1,1 +1,1 @@
-console.log("ami")
+console.log("ami nai kintu")
